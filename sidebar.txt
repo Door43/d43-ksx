@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ksx:home|Door43 (ksx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ksx|d43-ksx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ksx/archive/master.zip|d43-ksx.zip]]
+
+**Recent Changes**
+{{changes>ns = ksx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ksx|Ethnologue data]]
+
